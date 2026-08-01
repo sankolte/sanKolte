@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- Futuristic Glowing Iron Man / Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0d1117,25:1f1938,50:4c0519,75:111827,100:0d1117&height=250&section=header&text=SANSKAR%20KOLTE&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%A9%B7%20ARC%20REACTOR%20POWERED%20%7C%20BACKEND%20%26%20AI%20SYSTEMS%20ENGINEER&descSize=18&descAlignY=68&descColor=38bdf8" width="100%" alt="Sanskar Kolte Banner" />
-
-  <br/>
-
-  <!-- Dynamic Animated Typing Text -->
+  <!-- Dynamic Typing Header -->
   <a href="https://github.com/sanKolte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&height=50&lines=Backend+%26+AI+Systems+Engineer+%F0%9F%A4%96;Architecting+LLM+Pipelines%2C+RAG+%26+Vector+DBs+%E2%9A%A1;Math+%26+Graph+Algorithm+Enthusiast+%E2%88%9E;Fueled+by+Metallica+%26+AC%2FDC+%F0%9F%8E%B8%E2%9A%A1" alt="Typing Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Backend+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Fueled+by+Metallica+%26+AC%2FDC+%F0%9F%8E%B8" alt="Header Typing SVG" />
   </a>
 
-  <br/><br/>
+  <p align="center">
+    <code>Building High-Performance Distributed Systems & Intelligent AI Memory Pipelines</code>
+  </p>
 
   <!-- Social & Contact Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/sanskar-kolte14" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@koltesanskar.1406" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="https://x.com/sankolte" target="_blank">
       <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
@@ -29,34 +29,34 @@
 
 ---
 
-### 🦾 ABOUT SANSKAR KOLTE
+### 💫 ABOUT ME
 
-I'm a **Backend & AI Systems Engineer** with a passion for building high-performance server architectures, autonomous AI pipelines, and intelligent vector-search systems. 
+I'm a **Backend & AI Systems Engineer** passionate about building high-throughput server architectures, real-time communication systems, and intelligent vector-search AI pipelines.
 
-- 🤖 **AI & Vector Architectures:** Building production RAG applications using LangChain, LangGraph, Qdrant, and Mem0 for contextual AI memory.
-- ⚡ **Backend & Distributed Systems:** Designing robust microservices, async message queues (Redis + BullMQ), and scalable databases.
-- 🧮 **Mathematical Mindset:** Fascinated by linear algebra, graph algorithms, vector space mathematics, and system optimization.
-- 🎸 **Heavy Metal Soul:** Debugging complex memory leaks and scaling backends with Metallica and AC/DC cranked to 100%.
+- 🤖 **AI & Vector Memory:** Building production-grade RAG applications using LangChain, LangGraph, Qdrant, and Mem0 AI memory.
+- ⚡ **Backend & Real-Time Systems:** Engineering scalable microservices, real-time WebSockets / Socket.io channels, and async queue pipelines with Redis & BullMQ.
+- 🧮 **Obsessed with Calculus:** Deeply passionate about mathematical optimization, differential equations $\frac{dy}{dx}$, integration $\int_a^b f(x)dx$, and multivariable gradient fields $\nabla f$.
+- 🎸 **Heavy Metal Powered:** Writing backend code and scaling servers with Metallica and AC/DC on repeat.
 
 ---
 
-### 🎸 MUSIC & SOUNDTRACK
+### 🎸 MY MUSIC & SOUNDTRACK
 
 <div align="center">
 
 | ⚡ HEAVY METAL & HARD ROCK VIBES |
 | :--- |
-| 🎸 **Favorite Bands:** Metallica • AC/DC • Iron Maiden |
-| 🔊 **Anthems:** *Master of Puppets* • *Thunderstruck* • *Back in Black* • *Enter Sandman* |
-| 🎧 *"For those about to rock (and code), we salute you!"* ⚡ |
+| 🎸 **Bands I Love:** Metallica • AC/DC • Iron Maiden |
+| 🔊 **Go-To Anthems:** *Master of Puppets* • *Thunderstruck* • *Back in Black* • *Enter Sandman* |
+| 🎧 *"For those about to rock (and code), I salute you!"* ⚡ |
 
 </div>
 
 ---
 
-### 🛠️ TECH STACK & ARSENAL
+### 🛠️ MY TECH STACK
 
-#### 💻 **Programming Languages**
+#### 💻 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -70,8 +70,10 @@ I'm a **Backend & AI Systems Engineer** with a passion for building high-perform
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-7B2CBF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Mem0 AI](https://img.shields.io/badge/Mem0_AI_Memory-00F2FE?style=for-the-badge&logo=brain&logoColor=black)
 
-#### ⚡ **Backend, Async Queues & ORMs**
+#### ⚡ **Backend, Real-Time & Async Queues**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logo=target&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -91,30 +93,20 @@ I'm a **Backend & AI Systems Engineer** with a passion for building high-perform
 
 ---
 
-### 📊 GITHUB TELEMETRY & STATS
+### 📊 MY GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanKolte&show_icons=true&theme=tokyonight" alt="sanKolte's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanKolte&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanKolte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="sanKolte's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanKolte&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanKolte&theme=tokyonight&hide_border=true" alt="sanKolte's Commit Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanKolte&theme=tokyonight" alt="GitHub Commit Streak" />
+</p>
 
 ---
 
-### 🐍 CONTRIBUTION MATRIX
+### 🐍 MY CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
