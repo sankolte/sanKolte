@@ -1,80 +1,97 @@
 <div align="center">
 
-  <!-- Arc Reactor / Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:311042&height=220&section=header&text=sanKolte&fontSize=70&fontColor=7dd3fc&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner" />
+  <!-- Futuristic Glowing Iron Man / Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0d1117,25:1f1938,50:4c0519,75:111827,100:0d1117&height=250&section=header&text=SANSKAR%20KOLTE&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%A9%B7%20ARC%20REACTOR%20POWERED%20%7C%20BACKEND%20%26%20AI%20SYSTEMS%20ENGINEER&descSize=18&descAlignY=68&descColor=38bdf8" width="100%" alt="Sanskar Kolte Banner" />
 
-  <!-- Animated Typing Subtitle -->
+  <br/>
+
+  <!-- Dynamic Animated Typing Text -->
   <a href="https://github.com/sanKolte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=750&height=50&lines=Backend+%26+AI+Systems+Engineer+%F0%9F%A4%96;Math+%26+Algorithmic+Optimization+Enthusiast+%E2%88%9E;Fueled+by+Heavy+Metal+%26+AC%2FDC+%E2%9A%A1;%22I+am+Iron+Man.%22+%E2%9A%9B%EF%B8%8F" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=750&height=50&lines=Backend+%26+AI+Systems+Engineer+%F0%9F%A4%96;Architecting+LLM+Pipelines%2C+RAG+%26+Vector+DBs+%E2%9A%A1;Math+%26+Graph+Algorithm+Enthusiast+%E2%88%9E;Fueled+by+Metallica+%26+AC%2FDC+%F0%9F%8E%B8%E2%9A%A1" alt="Typing Text" />
   </a>
 
-  <p align="center">
-    <code>System.out.println("Building High-Performance Distributed Systems & Intelligent AI Pipelines");</code>
-  </p>
+  <br/><br/>
 
-  <!-- Quick Badges -->
+  <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="https://github.com/sanKolte"><img src="https://img.shields.io/badge/Arc_Reactor-ONLINE-00f2fe?style=for-the-badge&logo=react&logoColor=black" alt="Arc Reactor Online"></a>
-    <a href="https://github.com/sanKolte"><img src="https://img.shields.io/badge/Music-METALLICA_%7C_AC%2FDC-ff0055?style=for-the-badge&logo=youtube&logoColor=white" alt="Heavy Metal"></a>
-    <a href="https://github.com/sanKolte"><img src="https://img.shields.io/badge/Math-%E2%88%AB_f(x)dx-7aa2f7?style=for-the-badge&logo=latex&logoColor=white" alt="Math Enthusiast"></a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/sanskar-kolte14" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/sankolte" target="_blank">
+      <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:koltesanskar.1406@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
 </div>
 
-<br/>
+---
 
-<!-- Stark Industries Status Panel -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦾 STARK INDUSTRIES // SYSTEM SPECIFICATIONS</h3>
-      <ul>
-        <li>🤖 <b>Primary Directive:</b> Engineering scalable backend microservices, distributed queues, and autonomous AI agents.</li>
-        <li>🧮 <b>Mathematical Core:</b> Deep interest in graph theory, linear algebra $\mathbf{A}\mathbf{x} = \mathbf{b}$, discrete optimization, and deep learning backpropagation $\nabla_{\Theta} \mathcal{L}$.</li>
-        <li>⚡ <b>Power Source:</b> <code>AC/DC - Thunderstruck</code> & <code>Metallica - Master of Puppets</code> on repeat.</li>
-        <li>🧠 <b>J.A.R.V.I.S. Protocol:</b> Turning complex mathematical formulations into production-grade high-throughput code.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ QUICK COMMANDS & STATUS</h3>
-      <pre lang="json">
-{
-  "developer": "sanKolte",
-  "status": "Architecting AI Systems",
-  "coffee_to_code_ratio": "∞ : 1",
-  "favorite_quote": "Sometimes you gotta run before you can walk.",
-  "soundtrack": ["Metallica", "AC/DC", "Iron Maiden"],
-  "arc_reactor": "100% Charged 💙"
-}
-      </pre>
-    </td>
-  </tr>
-</table>
+### 🦾 ABOUT SANSKAR KOLTE
+
+I'm a **Backend & AI Systems Engineer** with a passion for building high-performance server architectures, autonomous AI pipelines, and intelligent vector-search systems. 
+
+- 🤖 **AI & Vector Architectures:** Building production RAG applications using LangChain, LangGraph, Qdrant, and Mem0 for contextual AI memory.
+- ⚡ **Backend & Distributed Systems:** Designing robust microservices, async message queues (Redis + BullMQ), and scalable databases.
+- 🧮 **Mathematical Mindset:** Fascinated by linear algebra, graph algorithms, vector space mathematics, and system optimization.
+- 🎸 **Heavy Metal Soul:** Debugging complex memory leaks and scaling backends with Metallica and AC/DC cranked to 100%.
+
+---
+
+### 🎸 MUSIC & SOUNDTRACK
+
+<div align="center">
+
+| ⚡ HEAVY METAL & HARD ROCK VIBES |
+| :--- |
+| 🎸 **Favorite Bands:** Metallica • AC/DC • Iron Maiden |
+| 🔊 **Anthems:** *Master of Puppets* • *Thunderstruck* • *Back in Black* • *Enter Sandman* |
+| 🎧 *"For those about to rock (and code), we salute you!"* ⚡ |
+
+</div>
 
 ---
 
 ### 🛠️ TECH STACK & ARSENAL
 
-#### 💻 **Core Languages & AI Frameworks**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,go,ts,js,pyt,tensorflow,postgres,redis,kafka&theme=dark" alt="Languages & AI" />
-  </a>
-</div>
+#### 💻 **Programming Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-A91E2C?style=for-the-badge&logo=html5&logoColor=white)
 
-<br/>
+#### 🤖 **AI, LLM Frameworks & Vector DBs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architectures-0052CC?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-D12E66?style=for-the-badge&logo=database&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-7B2CBF?style=for-the-badge&logo=databricks&logoColor=white)
+![Mem0 AI](https://img.shields.io/badge/Mem0_AI_Memory-00F2FE?style=for-the-badge&logo=brain&logoColor=black)
 
-#### ⚙️ **Backend Infrastructure, Cloud & Tools**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,docker,kubernetes,aws,linux,git,github,postman,vscode&theme=dark" alt="Infrastructure & Tools" />
-  </a>
-</div>
+#### ⚡ **Backend, Async Queues & ORMs**
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logo=target&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+#### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+
+#### 🛠️ **DevOps, Auth, Deployment & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Clerk Auth](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 STARK LABS // ANALYTICS & TELEMETRY
+### 📊 GITHUB TELEMETRY & STATS
 
 <div align="center">
 
@@ -97,7 +114,7 @@
 
 ---
 
-### 🐍 CONTRIBUTION MATRIX // ANIMATED SNAKE
+### 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
   <picture>
@@ -109,29 +126,9 @@
 
 ---
 
-### 🎸 SOUNDTRACK OF THE LAB
-
-```bash
-[Now Playing]: Metallica — Master of Puppets 🔊
-0:42 ───🎨──────────────── 8:35
-      🔁   ◀◀   ⏸   ▶▶   🔀
-```
-
-> *"For those about to rock, we salute you!"* — **AC/DC ⚡**
-
----
-
-### 📬 GET IN TOUCH WITH STARK LABS
-
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-
-  <br/><br/>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=sanKolte&color=7aa2f7&style=for-the-badge&label=STARK+LABS+VISITORS" alt="Profile Visitors" />
+  <!-- Profile Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=sanKolte&color=38bdf8&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors" />
 
 </div>
