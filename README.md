@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/sanKolte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Backend+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Building+Systems+Listening+to+The+Weeknd+%26+Tame+Impala+%F0%9F%8E%A7" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Node.js+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Building+Systems+Listening+to+The+Weeknd+%26+Tame+Impala+%F0%9F%8E%A7" alt="Header Typing SVG" />
   </a>
 
   <p align="center">
-    <code>Building High-Performance Distributed Systems & Intelligent AI Memory Pipelines</code>
+    <code>Building Scalable Node.js Backends, WebSockets Pub/Sub & AI Memory Systems</code>
   </p>
 
   <!-- Social & Contact Badges -->
@@ -31,12 +31,13 @@
 
 ### 💫 ABOUT ME
 
-I'm a **Backend & AI Systems Engineer** passionate about building high-throughput server architectures, real-time communication systems, and intelligent vector-search AI pipelines.
+I'm a **Node.js & AI Systems Engineer** passionate about building fast backend servers, real-time Pub/Sub communication systems, and intelligent vector-search AI pipelines.
 
-- 🤖 **AI & Vector Memory:** Building production-grade RAG applications using LangChain, LangGraph, Qdrant, and Mem0 AI memory.
-- ⚡ **Backend & Real-Time Systems:** Engineering scalable microservices, real-time WebSockets / Socket.io channels, and async queue pipelines with Redis & BullMQ.
+- 🤖 **AI Systems:** Building production-grade AI applications and RAG pipelines using LangChain, LangGraph, Qdrant, and Mem0 AI memory.
+- ⚡ **Backend & Pub/Sub Systems:** Engineering Node.js & Express.js backends, real-time WebSockets with Redis Pub/Sub, and async queues with BullMQ.
+- 🗄️ **Multi-Database Management:** Architecting schemas and managing data across PostgreSQL, MySQL, MongoDB, and Neon DB.
 - 🧮 **Obsessed with Calculus:** Deeply passionate about mathematical optimization, differential equations $\frac{dy}{dx}$, integration $\int_a^b f(x)dx$, and multivariable gradient fields $\nabla f$.
-- 🎧 **Soundtrack-Driven Developer:** Architecting systems and scaling servers while listening to **Michael Jackson**, **Tame Impala**, **The Weeknd**, **AC/DC**, and **Djo**.
+- 🎧 **Soundtrack-Driven Developer:** Building systems while listening to **Michael Jackson**, **Tame Impala**, **The Weeknd**, **AC/DC**, and **Djo**.
 
 ---
 
@@ -78,7 +79,7 @@ I'm a **Backend & AI Systems Engineer** passionate about building high-throughpu
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-A91E2C?style=for-the-badge&logo=html5&logoColor=white)
 
-#### 🤖 **AI, LLM Frameworks & Vector DBs**
+#### 🤖 **AI Systems & Vector DBs**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Architectures-0052CC?style=for-the-badge&logo=meta&logoColor=white)
@@ -86,11 +87,11 @@ I'm a **Backend & AI Systems Engineer** passionate about building high-throughpu
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-7B2CBF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Mem0 AI](https://img.shields.io/badge/Mem0_AI_Memory-00F2FE?style=for-the-badge&logo=brain&logoColor=black)
 
-#### ⚡ **Backend, Real-Time & Async Queues**
+#### ⚡ **Backend, WebSockets Pub/Sub & Queues**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis_Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logo=target&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
