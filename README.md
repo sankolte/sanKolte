@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/sanKolte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Backend+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Fueled+by+Metallica+%26+AC%2FDC+%F0%9F%8E%B8" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Backend+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Building+Systems+Listening+to+The+Weeknd+%26+Tame+Impala+%F0%9F%8E%A7" alt="Header Typing SVG" />
   </a>
 
   <p align="center">
@@ -36,19 +36,35 @@ I'm a **Backend & AI Systems Engineer** passionate about building high-throughpu
 - 🤖 **AI & Vector Memory:** Building production-grade RAG applications using LangChain, LangGraph, Qdrant, and Mem0 AI memory.
 - ⚡ **Backend & Real-Time Systems:** Engineering scalable microservices, real-time WebSockets / Socket.io channels, and async queue pipelines with Redis & BullMQ.
 - 🧮 **Obsessed with Calculus:** Deeply passionate about mathematical optimization, differential equations $\frac{dy}{dx}$, integration $\int_a^b f(x)dx$, and multivariable gradient fields $\nabla f$.
-- 🎸 **Heavy Metal Powered:** Writing backend code and scaling servers with Metallica and AC/DC on repeat.
+- 🎧 **Soundtrack-Driven Developer:** Architecting systems and scaling servers while listening to **Michael Jackson**, **Tame Impala**, **The Weeknd**, **AC/DC**, and **Djo**.
 
 ---
 
-### 🎸 MY MUSIC & SOUNDTRACK
+### 🎧 MY MUSIC & AUDIO PLAYER
 
 <div align="center">
 
-| ⚡ HEAVY METAL & HARD ROCK VIBES |
-| :--- |
-| 🎸 **Bands I Love:** Metallica • AC/DC • Iron Maiden |
-| 🔊 **Go-To Anthems:** *Master of Puppets* • *Thunderstruck* • *Back in Black* • *Enter Sandman* |
-| 🎧 *"For those about to rock (and code), I salute you!"* ⚡ |
+```bash
+[Now Playing]: Djo — End of Beginning 🎵
+1:24 ─────────────🎨────────── 2:39
+       🔁   ◀◀   ⏸   ▶▶   🔀
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Michael_Jackson-👑_Pop-FFD700?style=for-the-badge&logo=youtube&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tame_Impala-🌀_Psychedelic-7AA2F7?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/The_Weeknd-🌅_R%26B-FF0055?style=for-the-badge&logo=apple-music&logoColor=white" />
+  <img src="https://img.shields.io/badge/AC%2FDC-⚡_Hard_Rock-F7DF1E?style=for-the-badge&logo=sound-cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Djo-🎸_Indie_Rock-38BDF8?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <b>🎶 Top Rotation:</b> <i>End of Beginning (Djo)</i> • <i>The Less I Know The Better (Tame Impala)</i> • <i>Blinding Lights (The Weeknd)</i> • <i>Billie Jean (Michael Jackson)</i> • <i>Thunderstruck (AC/DC)</i>
+    </td>
+  </tr>
+</table>
 
 </div>
 
