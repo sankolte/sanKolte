@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <code>Building Scalable Node.js Backends, WebSockets Pub/Sub & AI Memory Systems</code>
+    <code>⚡ Crafting High-Speed Backends, Real-Time Streams & Intelligent AI Systems 🤖</code>
   </p>
 
   <!-- Social & Contact Badges -->
