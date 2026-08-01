@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/sanKolte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+sanKolte+%F0%9F%A4%96;Node.js+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Building+Systems+Listening+to+The+Weeknd+%26+Tame+Impala+%F0%9F%8E%A7" alt="Header Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=800&height=70&lines=Hi%2C+I'm+Sanskar+%F0%9F%90%8B;Backend+%26+AI+Systems+Engineer+%E2%9A%A1;Obsessed+with+Calculus+%26+Optimization+%E2%88%AB;Building+Systems+Listening+to+The+Weeknd+%26+Tame+Impala+%F0%9F%8E%A7" alt="Header Typing SVG" />
   </a>
 
   <p align="center">
@@ -31,7 +31,7 @@
 
 ### 💫 ABOUT ME
 
-I'm a **Node.js & AI Systems Engineer** passionate about building fast backend servers, real-time Pub/Sub communication systems, and intelligent vector-search AI pipelines.
+I'm **Sanskar**, a **Backend & AI Systems Engineer** passionate about building fast server architectures, real-time Pub/Sub communication systems, and intelligent vector-search AI pipelines.
 
 - 🤖 **AI Systems:** Building production-grade AI applications and RAG pipelines using LangChain, LangGraph, Qdrant, and Mem0 AI memory.
 - ⚡ **Backend & Pub/Sub Systems:** Engineering Node.js & Express.js backends, real-time WebSockets with Redis Pub/Sub, and async queues with BullMQ.
